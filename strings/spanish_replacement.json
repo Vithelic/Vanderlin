@@ -1,6 +1,7 @@
 {
 
     "spanish": { 
+                "god": "deidad",
 	        "de": "dee",
 	        "shit": "mierda",
 		"thi": "thee",
@@ -8,6 +9,9 @@
 		"r": "rr",
 		"ish": "eesh",
 		"is": "es",
+	        "help": "ayuda",
+	        "ha": "ja",
+                "haha": "jaja",
 		"thanks": [ 
 			"gracias",
 		        "te lo agradezco",
