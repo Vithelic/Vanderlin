@@ -6,8 +6,46 @@
 		"r": "rr",
 		"ish": "eesh",
 		"is": "es",
-		"thanks": "gracias",
-		"in": "en"
+		"thanks": [ 
+			"gracias",
+		        "te lo agradezco",
+			"muchas gracias"
+		         ],
+		"in": "en",
+	        "cc": "ts",
+	        "z": "th", 
+	        "please": "por favor",
+	        "bye":    [
+			"adiós",
+                        "hasta luego",
+			"nos vemos"
+		],
+                "goodbye" :[
+			"adiós",
+			"hasta luego",
+			"nos vemos"
+		],
+	        "shit": "mierda",
+	        "brother": "hermano",
+	        "sister": "hermana",
+	        "mom": "mamá",
+	        "mother": "madre",
+	        "dad": "papá",
+	        "father": "padre",
+	        "hello": [
+			"hola",
+			"buenas"
+		],
+	        "hey": "ey",
+	        "my": "mi",
+	        "wine": "vino",
+	        "captain": "capitán",
+	        "fucking": [
+			"puto",
+			"maldito"
+		],
+	        "curse": "maldición",
+	        "curses": "maldiciónes",
 		}
 		
 }
